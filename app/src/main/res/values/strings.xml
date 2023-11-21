@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMmodelTest</string>
+    <string name="btn_tap">tap</string>
+</resources>
